@@ -1,0 +1,22 @@
+.link {
+    display: flex;
+    border: 5px solid rgba(68,199,182,255);
+    background-color: rgba(255,226,226,255);
+    width: 150px;
+    text-decoration: none;
+    border-radius: 25px;
+    padding: 5px;
+    align-items: center;
+    justify-content: space-around;
+    margin: auto;
+}
+
+.text {
+    color:rgba(95,38,110,67) ;
+    font-family: "Poppins";
+    font-size: 25px;
+}
+
+.ikon {
+    width: 40px;
+}
